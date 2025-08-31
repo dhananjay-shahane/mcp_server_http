@@ -1,0 +1,3 @@
+fastmcp
+matplotlib
+mcp[cli]>=1.13.1
