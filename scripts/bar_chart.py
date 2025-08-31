@@ -26,6 +26,3 @@ def generate_bar_chart():
     plt.close()
     
     print(f"Bar chart saved at: {file_path}")
-
-if __name__ == "__main__":
-    generate_bar_chart()
