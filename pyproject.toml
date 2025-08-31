@@ -1,0 +1,11 @@
+[project]
+name = "mcp-server-http"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.11.3",
+    "matplotlib>=3.10.6",
+    "mcp[cli]>=1.13.1",
+]
